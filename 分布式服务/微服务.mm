@@ -1,0 +1,9 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1480065347471" ID="ID_1786217478" MODIFIED="1480065354806" TEXT="&#x5fae;&#x670d;&#x52a1;">
+<node CREATED="1480065356260" ID="ID_338009913" MODIFIED="1480065360179" POSITION="right" TEXT="&#x6ce8;&#x518c;&#x4e2d;&#x5fc3;">
+<node CREATED="1480065362830" ID="ID_360365050" MODIFIED="1480065366536" TEXT="Zookeeper"/>
+<node CREATED="1480065367164" ID="ID_1733340932" MODIFIED="1480065375094" TEXT="Consul"/>
+</node>
+</node>
+</map>
