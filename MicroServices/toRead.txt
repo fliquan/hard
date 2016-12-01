@@ -1,0 +1,3 @@
+http://www.chanpin100.com/article/50391
+
+http://blog.christianposta.com/deploy/blue-green-deployments-a-b-testing-and-canary-releases/
