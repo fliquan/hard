@@ -1,22 +1,23 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1480648729458" ID="ID_1897084226" MODIFIED="1481431226806" TEXT="&#x67b6;&#x6784;">
+<node CREATED="1480648729458" ID="ID_1897084226" MODIFIED="1481817588866" TEXT="&#x67b6;&#x6784;">
 <richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
   <body>
-    <table style="width: 80%; border-top-width: 0; border-left-width: 0; border-top-style: solid; border-right-style: solid; border-right-width: 0; border-bottom-width: 0; border-left-style: solid; border-bottom-style: solid" border="0">
+    <table style="border-bottom-width: 0; border-right-width: 0; border-top-style: solid; border-left-width: 0; border-right-style: solid; border-left-style: solid; width: 80%; border-top-width: 0; border-bottom-style: solid" border="0">
       <tr>
-        <td style="width: 100%; border-top-width: 1; border-left-width: 1; border-top-style: solid; border-right-style: solid; border-right-width: 1; border-bottom-width: 1; border-left-style: solid; border-bottom-style: solid" valign="top">
-          <p style="margin-right: 1; margin-left: 1; margin-top: 1; margin-bottom: 1">
+        <td valign="top" style="border-bottom-width: 1; border-right-width: 1; border-top-style: solid; border-left-width: 1; border-right-style: solid; border-left-style: solid; width: 100%; border-top-width: 1; border-bottom-style: solid">
+          <p style="margin-left: 1; margin-bottom: 1; margin-top: 1; margin-right: 1">
             http://microservices.io/
           </p>
         </td>
       </tr>
     </table>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1480648797767" ID="ID_742970331" MODIFIED="1481506808667" POSITION="right" TEXT="&#x5355;&#x4f53;&#x67b6;&#x6784;">
 <node CREATED="1480648811126" FOLDED="true" ID="ID_1834344019" MODIFIED="1481506812530" TEXT="&#x4f18;&#x70b9;">
 <node CREATED="1480650292302" FOLDED="true" ID="ID_1461065186" MODIFIED="1481431226804" TEXT="&#x5e94;&#x7528;&#x8303;&#x56f4;&#x5e7f;">
