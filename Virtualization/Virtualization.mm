@@ -32,7 +32,7 @@
 </node>
 <node CREATED="1481599756749" ID="ID_810671021" MODIFIED="1481599784257" TEXT="&#x786c;&#x4ef6;&#x8f85;&#x52a9;&#x865a;&#x62df;&#x5316;HardwareAssisted Virtualization">
 <node CREATED="1481611863571" ID="ID_247611612" MODIFIED="1481611867195" TEXT="&#x57fa;&#x672c;&#x539f;&#x7406;">
-<node CREATED="1481611867195" ID="ID_1703341383" MODIFIED="1481611917497" TEXT="Intel&#x548c;AMD&#x7b49;&#x786c;&#x4ef6;&#x5382;&#x5546;&#x901a;&#x8fc7;&#x5bf9;&#x90e8;&#x5206;&#x5168;&#x865a;&#x62df;&#x5316;&#x548c;&#x534a;&#x865a;&#x62df;&#x5316;&#x4f7f;&#x7528;&#x5230;&#x7684;&#x8f6f;&#x4ef6;&#x6280;&#x672f;&#x8fdb;&#x884c;&#x786c;&#x4ef6;&#x8bdd;&#x6765;&#x63d0;&#x9ad8;&#x6027;&#x80fd;"/>
+<node CREATED="1481611867195" ID="ID_1703341383" MODIFIED="1511248081329" TEXT="Intel&#x548c;AMD&#x7b49;&#x786c;&#x4ef6;&#x5382;&#x5546;&#x901a;&#x8fc7;&#x5bf9;&#x90e8;&#x5206;&#x5168;&#x865a;&#x62df;&#x5316;&#x548c;&#x534a;&#x865a;&#x62df;&#x5316;&#x4f7f;&#x7528;&#x5230;&#x7684;&#x8f6f;&#x4ef6;&#x6280;&#x672f;&#x8fdb;&#x884c;&#x786c;&#x4ef6;&#x5316;&#x6765;&#x63d0;&#x9ad8;&#x6027;&#x80fd;"/>
 </node>
 <node CREATED="1481611921162" ID="ID_699644138" MODIFIED="1481611922853" TEXT="&#x7279;&#x70b9;">
 <node CREATED="1481611922854" ID="ID_292736163" MODIFIED="1481611949395" TEXT="&#x5927;&#x91cf;&#x865a;&#x62df;&#x5316;&#x903b;&#x8f91;&#x4ece;&#x8f6f;&#x4ef6;&#x4e2d;&#x5265;&#x79bb;&#xff0c;&#x7b80;&#x5316;&#x4e86;&#x865a;&#x62df;&#x5316;&#x4ea7;&#x54c1;&#x7684;&#x67b6;&#x6784;"/>
